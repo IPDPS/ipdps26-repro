@@ -11,3 +11,6 @@ If your paper is accepted, you will be asked to provide a mandatory Artifact Des
 
 Also, see the supporting [guidelines](for-paper-authors).
 
+
+## Acknowledgments
+These templates are based on the work by Sascha Hunold for SC24.
