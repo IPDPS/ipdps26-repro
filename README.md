@@ -1,18 +1,13 @@
-# SC24 Reproducibility Initiative 
+# IPDPS26 Reproducibility Initiative 
 
 ## About
 
 This repository functions as an extra source of information on topics associated with the
-[Reproducibility Initiative at SC24.](https://sc24.supercomputing.org/program/papers/reproducibility-initiative/)
+[Reproducibility Initiative at IPDPS26.]([https://sc24.supercomputing.org/program/papers/reproducibility-initiative/](https://www.ipdps.org/ipdps2026/2026-reproducibility-initiative.html))
 
-## For SC24 Paper Authors
+## For IPDPS26 Paper Authors
 
-A LaTeX template for the AD/AE Appendices is provided in [for-paper-authors](for-paper-authors).
+If your paper is accepted, you will be asked to provide a mandatory Artifact Description (AD) appendix. The Artifact Evaluation (AE) is facultative but strongly encouraged. A LaTeX template for the AD/AE Appendices is provided in [for-paper-authors](for-paper-authors).
 
 Also, see the supporting [guidelines](for-paper-authors).
-
-Paper authors should carefully read the instructions on the [SC24 AD/AE Process & Badges page](https://sc24.supercomputing.org/program/papers/reproducibility-appendices-badges/).
-
-
-## For AE Reviewers (Reproducibility / SC24 Planning Committee)
 
